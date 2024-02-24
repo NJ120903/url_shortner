@@ -28,7 +28,7 @@ This is a simple URL shortener web application built using Python and Flask.
    pip install strings
    ```
    ```bash
-  pip install random2
+   pip install random2
    ```
    
 
