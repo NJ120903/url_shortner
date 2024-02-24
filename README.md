@@ -20,10 +20,17 @@ This is a simple URL shortener web application built using Python and Flask.
 
    ```bash
    pip install Flask
-   pip install db-sqlite3
-   pip install strings
-   pip install random2
    ```
+   ```bash
+   pip install db-sqlite3
+   ```
+   ```bash
+   pip install strings
+   ```
+   ```bash
+  pip install random2
+   ```
+   
 
 3. Run the application:
 
