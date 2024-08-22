@@ -13,7 +13,7 @@ This is a simple URL shortener web application built using Python and Flask.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/your-username/url_shortener.git
    ```
 
 2. Install the dependencies:
